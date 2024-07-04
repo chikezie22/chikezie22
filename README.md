@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chikezie Simon</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chikezie22&label=Profile%20views&color=0e75b6&style=flat" alt="chikezie22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chikezie22&label=Profile%20views&color=0e75b6&style=flat" alt="chikezie22" /> </p> ![GitHub followers](https://img.shields.io/github/followers/chikezie22)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/chikezie_simon?style=flat&logo=x&logoColor=%23000000&logoSize=auto)
 
 - 👯 I’m looking to collaborate on **Software Engineers**
 
