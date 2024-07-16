@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chikezie Simon</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 
+<a href="https://gitroll.io/profile/uxnufPCEoZ2PVmcVGGJ5ai4y9bOK2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxnufPCEoZ2PVmcVGGJ5ai4y9bOK2" alt="GitRoll Profile Badge"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chikezie22&label=Profile%20views&color=0e75b6&style=flat" alt="chikezie22" /> </p> 
 
 - 👯 I’m looking to collaborate on **Software Engineers**
